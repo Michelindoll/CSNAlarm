@@ -125,4 +125,3 @@ root = Tk()
 
 startInterface()
 
-pause()
